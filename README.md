@@ -113,7 +113,9 @@ $ ./setup.sh down
 
 ## NOTE
 
-When running this script, the following error can occur during the last two steps.
+When running this script, if the following error occurs, you must upgrade your HLF platform-specific binaries at least to v1.04 (see [Instructions here](http://hyperledger-fabric.readthedocs.io/en/release/samples.html#binaries)).
+
+
 
 ```
 ================ STEP: EIGHTEEN ==============
